@@ -1,3 +1,4 @@
+https://zenodo.org/badge/DOI/10.5281/zenodo.5515137.svg
 # Welcome to _Papaver_ Genomic page
 
 ## This is the Genomics Data resuorce of _Papaver_ species genome
