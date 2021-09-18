@@ -1,4 +1,4 @@
-https://zenodo.org/badge/DOI/10.5281/zenodo.5515137.svg
+<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5515137.svg">
 
 # Welcome to _Papaver_ Genomic page
 
